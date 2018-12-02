@@ -1,46 +1,64 @@
 
 .columns-1-and-2 {
+  padding-left: 5%;
   grid-area: header;
   background-color: #3ed87c;
 }
 .profile  {
+  text-align: center;
+  padding-top: 5%;
   grid-area: profile;
   background-color: #f29b04;
 }
 .image {
+  text-align: center;
+  padding-top: 5%;
   grid-area: picture;
 }
 
 .experience {
+  text-align: center;
+  padding-top: 5%;
   grid-area: experience;
   background-color: #1f88f2;
 }
 
 .education  {
+  text-align: center;
+  padding-top: 5%;
   grid-area: education;
   background-color: #e84f12;
 }
 
 .blog   {
+  text-align: center;
+  padding-top: 5%;
   grid-area: blog;
   background-color: #3ed87c;
 }
 
 .social   {
+  text-align: center;
+  padding-top: 5%;
   grid-area: social;
   background-color: #f26418;
 }
 
 .contact  {
+  text-align: center;
+  padding-top: 5%;
   grid-area: contact;
   background-color: #1f88f2;
 }
 .portfolio  {
+  text-align: center;
+  padding-top: 5%;
   grid-area: portfolio;
   background-color: #f26418;
   }
 
 .container  {
+  color:white;
   display: grid;
   margin: 10px;
   grid-template-columns: 1f 1f 1f 1f 1f;
