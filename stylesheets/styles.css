@@ -38,7 +38,8 @@
 .portfolio  {
   grid-area: portfolio;
   background-color: #f26418;
-}
+  }
+
 .container  {
   display: grid;
   margin: 10px;
